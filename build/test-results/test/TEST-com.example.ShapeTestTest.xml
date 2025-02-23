@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.ShapeTestTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-02-23T10:49:27" hostname="DESKTOP-PAQ7BKH" time="0.172">
+  <properties/>
+  <testcase name="testCircleArea()" classname="com.example.ShapeTestTest" time="0.089"/>
+  <testcase name="testRightTrianglePerimeter()" classname="com.example.ShapeTestTest" time="0.01"/>
+  <testcase name="testIsocelesRightTriangleArea()" classname="com.example.ShapeTestTest" time="0.002"/>
+  <testcase name="testRightTriangleArea()" classname="com.example.ShapeTestTest" time="0.002"/>
+  <testcase name="testRectangleArea()" classname="com.example.ShapeTestTest" time="0.007"/>
+  <testcase name="testRectanglePerimeter()" classname="com.example.ShapeTestTest" time="0.003"/>
+  <testcase name="testRectangleSides()" classname="com.example.ShapeTestTest" time="0.013"/>
+  <testcase name="testSquarePerimeter()" classname="com.example.ShapeTestTest" time="0.003"/>
+  <testcase name="testSquareArea()" classname="com.example.ShapeTestTest" time="0.005"/>
+  <testcase name="testCirclePerimeter()" classname="com.example.ShapeTestTest" time="0.001"/>
+  <testcase name="testIsocelesRightTrianglePerimeter()" classname="com.example.ShapeTestTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
