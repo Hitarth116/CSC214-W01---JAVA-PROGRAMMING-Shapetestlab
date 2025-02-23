@@ -1,8 +1,6 @@
-# Project Title
+# Shape Test Lab Assignment
 
-## Description
 
-Provide a brief description of what your project does and its purpose.
 
 ## Prerequisites
 
